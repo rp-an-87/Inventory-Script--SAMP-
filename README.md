@@ -1,5 +1,5 @@
 # Inventory Script (SAMP)
-By CuervO
+By CuervO for CuervO
 
 Powered by
 -
