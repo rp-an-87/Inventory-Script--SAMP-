@@ -91,6 +91,7 @@ TypeName: Name of the Type (VARCHAR)<br>
 <br>
 - 'playerinventories' is a dynamic table which gets altered in the game itself when you create or remove a object slot. For each slot you add, a new column appears with a name of the ID of the slot, and this is used to keep track of the player inventories as in how many objects inside that slot the player has.<br>
 <br>
+
 SCRIPT ARCHITECTURE
 -
 In the previous version, the whole architecture was based off the SQL, and every time you needed a variable or a configuration of an object you would have to access the SQL, if you didn't have the value stored in a limited memory (the objects that were displayed). <br>
